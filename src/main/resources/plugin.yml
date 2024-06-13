@@ -1,5 +1,5 @@
 name: ChunkClaimPlugin
-version: 1.0
+version: 0.1
 main: ashinmc.myfirstplugin.Main
 api-version: 1.20
 commands:
